@@ -1,0 +1,72 @@
+[submodule "blocks/communication"]
+	path = blocks/communication
+	url = git://github.com/nio-blocks/communication.git
+[submodule "blocks/filter"]
+	path = blocks/filter
+	url = git://github.com/nio-blocks/filter.git
+[submodule "blocks/logger"]
+	path = blocks/logger
+	url = git://github.com/nio-blocks/logger.git
+[submodule "blocks/simulator"]
+	path = blocks/simulator
+	url = git://github.com/nio-blocks/simulator.git
+[submodule "service_tests"]
+	path = service_tests
+	url = git://github.com/niolabs/service_tests.git
+[submodule "blocks/attribute_selector"]
+	path = blocks/attribute_selector
+	url = git://github.com/nio-blocks/attribute_selector.git
+[submodule "blocks/merge_streams"]
+	path = blocks/merge_streams
+	url = git://github.com/nio-blocks/merge_streams.git
+[submodule "blocks/replicator"]
+	path = blocks/replicator
+	url = git://github.com/nio-blocks/replicator.git
+[submodule "blocks/modifier"]
+	path = blocks/modifier
+	url = git://github.com/nio-blocks/modifier.git
+[submodule "blocks/state"]
+	path = blocks/state
+	url = git://github.com/nio-blocks/state.git
+[submodule "blocks/join"]
+	path = blocks/join
+	url = git://github.com/nio-blocks/join.git
+[submodule "blocks/stripe"]
+	path = blocks/stripe
+	url = git://github.com/nio-blocks/stripe.git
+[submodule "blocks/xero"]
+	path = blocks/xero
+	url = git://github.com/nio-blocks/xero.git
+[submodule "project/blocks/attribute_selector"]
+	path = project/blocks/attribute_selector
+	url = git://github.com/nio-blocks/attribute_selector.git
+[submodule "project/blocks/communication"]
+	path = project/blocks/communication
+	url = git://github.com/nio-blocks/communication.git
+[submodule "project/blocks/filter"]
+	path = project/blocks/filter
+	url = git://github.com/nio-blocks/filter.git
+[submodule "project/blocks/join"]
+	path = project/blocks/join
+	url = git://github.com/nio-blocks/join.git
+[submodule "project/blocks/logger"]
+	path = project/blocks/logger
+	url = git://github.com/nio-blocks/logger.git
+[submodule "project/blocks/merge_streams"]
+	path = project/blocks/merge_streams
+	url = git://github.com/nio-blocks/merge_streams.git
+[submodule "project/blocks/replicator"]
+	path = project/blocks/replicator
+	url = git://github.com/nio-blocks/replicator.git
+[submodule "project/blocks/simulator"]
+	path = project/blocks/simulator
+	url = git://github.com/nio-blocks/simulator.git
+[submodule "project/blocks/state"]
+	path = project/blocks/state
+	url = git://github.com/nio-blocks/state.git
+[submodule "project/blocks/stripe"]
+	path = project/blocks/stripe
+	url = git://github.com/nio-blocks/stripe.git
+[submodule "project/blocks/xero"]
+	path = project/blocks/xero
+	url = git://github.com/nio-blocks/xero.git
